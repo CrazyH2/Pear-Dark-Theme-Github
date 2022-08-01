@@ -1,4 +1,3 @@
-function dark() {
     const style = document.createElement("style")
     style.setAttribute("id", "Pear-Theme-Dark");
     style.textContent = `[data-color-mode=light][data-light-theme=dark], [data-color-mode=dark][data-dark-theme=dark] {
@@ -1327,5 +1326,3 @@ function dark() {
 
     /*# sourceMappingURL=dark-dedaad398828.css.map*/`
     document.head.appendChild(style)
-}
-dark()

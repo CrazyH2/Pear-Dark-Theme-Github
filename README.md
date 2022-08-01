@@ -9,10 +9,10 @@ function pearEdit(){if(document.getElementById("Pear-Theme-Dark"));else{const o=
 
 ### LIGHT PEAR THEME
 ```
-### COMMING SOON
+COMMING SOON
 ```
 
 ### MIST PEAR THEME
 ```
-### COMMING SOON
+COMMING SOON
 ```

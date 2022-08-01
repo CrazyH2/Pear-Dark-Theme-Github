@@ -1172,7 +1172,7 @@
             --color-fg-on-emphasis: #ffffff;
             --color-canvas-default: #000000;
             --color-canvas-overlay: #212124;
-            --color-canvas-inset: #161618;
+            --color-canvas-inset: #000000;
             --color-canvas-subtle: #161618;
             --color-border-default: #161618;
             --color-border-muted: #161618;

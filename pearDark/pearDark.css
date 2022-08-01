@@ -935,7 +935,7 @@
         --color-prettylights-syntax-constant-other-reference-link: #a5d6ff;
         --color-codemirror-text: #c9d1d9;
         --color-codemirror-bg: #000000;
-        --color-codemirror-gutters-bg: #0d1117;
+        --color-codemirror-gutters-bg: #000000;
         --color-codemirror-guttermarker-text: #0d1117;
         --color-codemirror-guttermarker-subtle-text: #6e7681;
         --color-codemirror-linenumber-text: #8b949e;

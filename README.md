@@ -1,3 +1,4 @@
+![LOGO](https://icons.iconarchive.com/icons/alex-t/fresh-fruit/1024/pear-icon.png)
 # Pear Themes For Github
 A suite of themes for GitHub.
 

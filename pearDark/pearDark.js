@@ -935,8 +935,8 @@
             --color-prettylights-syntax-brackethighlighter-angle: #8b949e;
             --color-prettylights-syntax-sublimelinter-gutter-mark: #484f58;
             --color-prettylights-syntax-constant-other-reference-link: #a5d6ff;
-            --color-codemirror-text: #03f700;
-            --color-codemirror-bg: #0d1117;
+            --color-codemirror-text: #c9d1d9;
+            --color-codemirror-bg: #000000;
             --color-codemirror-gutters-bg: #0d1117;
             --color-codemirror-guttermarker-text: #0d1117;
             --color-codemirror-guttermarker-subtle-text: #6e7681;
@@ -945,7 +945,7 @@
             --color-codemirror-selection-bg: rgba(56, 139, 253, 0.4);
             --color-codemirror-activeline-bg: rgba(110, 118, 129, 0.1);
             --color-codemirror-matchingbracket-text: #c9d1d9;
-            --color-codemirror-lines-bg: #0d1117;
+            --color-codemirror-lines-bg: #000000;
             --color-codemirror-syntax-comment: #8b949e;
             --color-codemirror-syntax-constant: #79c0ff;
             --color-codemirror-syntax-entity: #d2a8ff;

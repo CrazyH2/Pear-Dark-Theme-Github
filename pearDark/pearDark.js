@@ -1,3 +1,8 @@
+     // © Copyright 2022 CrazyH
+     // This file was originally made by CrazyH
+     // Do not rebrand if you are distributing it
+     // © Copyright 2022 CrazyH
+
     const style = document.createElement("style")
     style.setAttribute("id", "Pear-Theme-Dark");
     style.textContent = `[data-color-mode=light][data-light-theme=dark], [data-color-mode=dark][data-dark-theme=dark] {

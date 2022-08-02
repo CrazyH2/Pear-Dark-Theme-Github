@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://icons.iconarchive.com/icons/alex-t/fresh-fruit/1024/pear-icon.png" alt="LOGO" width="200"/>
+  <img src="https://github.com/CrazyH2/Pear-Themes-For-Github/blob/main/pear-icon.png?raw=true" alt="LOGO" width="200"/>
 </div>
 
 # Pear Themes For Github
